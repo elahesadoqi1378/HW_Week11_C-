@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ARYA\\source\\repos\\HW_Week11\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BF564CDF-C9AA-4B5E-BEB4-8A6EBEFB045D}|HW_Week11\\HW_Week11.csproj|c:\\users\\arya\\source\\repos\\hw_week11\\hw_week11\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF564CDF-C9AA-4B5E-BEB4-8A6EBEFB045D}|HW_Week11\\HW_Week11.csproj|solutionrelative:hw_week11\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF564CDF-C9AA-4B5E-BEB4-8A6EBEFB045D}|HW_Week11\\HW_Week11.csproj|c:\\users\\arya\\source\\repos\\hw_week11\\hw_week11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF564CDF-C9AA-4B5E-BEB4-8A6EBEFB045D}|HW_Week11\\HW_Week11.csproj|solutionrelative:hw_week11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF564CDF-C9AA-4B5E-BEB4-8A6EBEFB045D}|HW_Week11\\HW_Week11.csproj|c:\\users\\arya\\source\\repos\\hw_week11\\hw_week11\\repositories\\productqueries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF564CDF-C9AA-4B5E-BEB4-8A6EBEFB045D}|HW_Week11\\HW_Week11.csproj|solutionrelative:hw_week11\\repositories\\productqueries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF564CDF-C9AA-4B5E-BEB4-8A6EBEFB045D}|HW_Week11\\HW_Week11.csproj|c:\\users\\arya\\source\\repos\\hw_week11\\hw_week11\\contracts\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF564CDF-C9AA-4B5E-BEB4-8A6EBEFB045D}|HW_Week11\\HW_Week11.csproj|solutionrelative:hw_week11\\contracts\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF564CDF-C9AA-4B5E-BEB4-8A6EBEFB045D}|HW_Week11\\HW_Week11.csproj|c:\\users\\arya\\source\\repos\\hw_week11\\hw_week11\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF564CDF-C9AA-4B5E-BEB4-8A6EBEFB045D}|HW_Week11\\HW_Week11.csproj|solutionrelative:hw_week11\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 289,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductQueries.cs",
+              "DocumentMoniker": "C:\\Users\\ARYA\\source\\repos\\HW_Week11\\HW_Week11\\Repositories\\ProductQueries.cs",
+              "RelativeDocumentMoniker": "HW_Week11\\Repositories\\ProductQueries.cs",
+              "ToolTip": "C:\\Users\\ARYA\\source\\repos\\HW_Week11\\HW_Week11\\Repositories\\ProductQueries.cs",
+              "RelativeToolTip": "HW_Week11\\Repositories\\ProductQueries.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T02:25:03.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ARYA\\source\\repos\\HW_Week11\\HW_Week11\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "HW_Week11\\Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\ARYA\\source\\repos\\HW_Week11\\HW_Week11\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "HW_Week11\\Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAgwD0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T02:17:20.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ARYA\\source\\repos\\HW_Week11\\HW_Week11\\Contracts\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "HW_Week11\\Contracts\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\ARYA\\source\\repos\\HW_Week11\\HW_Week11\\Contracts\\IProductRepository.cs",
+              "RelativeToolTip": "HW_Week11\\Contracts\\IProductRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T02:09:57.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\ARYA\\source\\repos\\HW_Week11\\HW_Week11\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "HW_Week11\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\ARYA\\source\\repos\\HW_Week11\\HW_Week11\\Entities\\Product.cs",
+              "RelativeToolTip": "HW_Week11\\Entities\\Product.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T01:52:29.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ARYA\\source\\repos\\HW_Week11\\HW_Week11\\Program.cs",
+              "RelativeDocumentMoniker": "HW_Week11\\Program.cs",
+              "ToolTip": "C:\\Users\\ARYA\\source\\repos\\HW_Week11\\HW_Week11\\Program.cs",
+              "RelativeToolTip": "HW_Week11\\Program.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAcwFIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T01:51:51.681Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
